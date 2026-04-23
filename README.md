@@ -17,7 +17,7 @@ This system uses transformer-based models such as BERT, FinBERT, and RoBERTa to 
 ## Architecture
 Data Sources - NLP Models - Insight Engine - FastAPI - Backend - Dashboard
 
-## 🛠️ Tech Stack
+## Tech Stack
 * Python, FastAPI
 * Transformers (HuggingFace)
 * Pandas, NumPy
@@ -28,17 +28,10 @@ Data Sources - NLP Models - Insight Engine - FastAPI - Backend - Dashboard
 uvicorn api.main:app --reload
 ```
 
-
-## 🎯 Use Cases
+## Use Cases
 
 * Market sentiment analysis
 * Financial trend monitoring
 * Decision support for trading
 
----
 
-## 👤 Author
-
-Ankita Mohapatra
-GitHub: https://github.com/ankitamohapatra0406
-LinkedIn: https://linkedin.com/in/ankita-mohapatra-326a35319
