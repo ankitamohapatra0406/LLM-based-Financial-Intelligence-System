@@ -6,8 +6,7 @@ An end-to-end **LLM-based financial analytics platform** that combines social me
 ## 📌Overview
 This system uses transformer-based models such as BERT, FinBERT, and RoBERTa to analyze financial text data and correlate sentiment with real-time stock trends.
 
-## 🔥 Key Features
-
+## Key Features
 * **Sentiment Analysis:** Classifies financial text as bullish, bearish, or neutral
 * **News Summarization:** Generates concise summaries of financial articles
 * **Trend Detection:** Tracks sentiment over time and identifies patterns
@@ -15,13 +14,8 @@ This system uses transformer-based models such as BERT, FinBERT, and RoBERTa to 
 * **API Deployment:** FastAPI-based endpoints for model inference
 * **Dashboard:** Visualizes sentiment, trends, and market data
 
----
-
-## 🏗️ Architecture
-
-Data Sources → NLP Models → Insight Engine → FastAPI Backend → Dashboard
-
----
+## Architecture
+Data Sources - NLP Models - Insight Engine - FastAPI - Backend - Dashboard
 
 ## 🛠️ Tech Stack
 
