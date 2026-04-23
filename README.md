@@ -18,21 +18,16 @@ This system uses transformer-based models such as BERT, FinBERT, and RoBERTa to 
 Data Sources - NLP Models - Insight Engine - FastAPI - Backend - Dashboard
 
 ## 🛠️ Tech Stack
-
 * Python, FastAPI
 * Transformers (HuggingFace)
 * Pandas, NumPy
 * React / Streamlit
 
----
-
 ## ▶️ Run
-
 ```bash
 uvicorn api.main:app --reload
 ```
 
----
 
 ## 🎯 Use Cases
 
