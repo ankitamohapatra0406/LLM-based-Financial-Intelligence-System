@@ -1,4 +1,4 @@
-# 🚀AI-Powered Financial Intelligence System
+# 🚀AI-Powered Financial Intelligence System 
 
 An end-to-end **LLM-based financial analytics platform** that combines social media sentiment, financial news, and stock market data to generate actionable insights for decision-making.
 
